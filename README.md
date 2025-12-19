@@ -6,7 +6,6 @@ You are not meant to rush. You are meant to notice.
 <p align="center">
   <img src="Screenshots/Screenshot1.PNG" width="30%" alt="Main Menu" />
   <img src="Screenshots/Screenshot2.PNG" width="30%" alt="Tutorial" />
-  <img src="Screenshots/Screenshot3.PNG" width="30%" alt="Gameplay" />
   <img src="Screenshots/Screenshot4.PNG" width="30%" alt="Gameplay" />
 </p>
 
