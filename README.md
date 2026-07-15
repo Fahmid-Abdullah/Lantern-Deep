@@ -54,7 +54,7 @@ Each space is designed to feel enclosed, intentional, and uneasy.
 
 | Action            | Key |
 |-------------------|-----|
-| Move              | `W A S D` |
+| Move              | `↑ ↓ ← →` |
 | Dash              | `Z` |
 | Invisibility      | `X` |
 | Interact          | `E` |
